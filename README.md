@@ -1,7 +1,6 @@
 # redis-with-sql
 This repo shows how using redis can reduce fetching data from redis server is more efficient than the actual database.
 
-
 🚀 Integrating Redis with Your Spring Boot App: Why, When & How
 
 If you're building a modern web application with Spring Boot and care about speed, scalability, and performance, then Redis is a tool you should definitely know. Here’s a closer look at how Redis works in tandem with Spring Boot caching annotations and a detailed pros/cons breakdown.
